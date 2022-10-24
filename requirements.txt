@@ -3,3 +3,4 @@ mlflow
 dvc
 pandas
 numpy
+joblib
