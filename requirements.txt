@@ -4,3 +4,4 @@ dvc
 pandas
 numpy
 joblib
+sklearn
